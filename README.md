@@ -27,3 +27,5 @@ Breadboard wiring:
 ![Breadboard wiring](/images/esp8266_oled_wiring_bb.png)
 
 ### Result
+
+![Photo](/images/photo.jpg)
