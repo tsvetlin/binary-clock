@@ -26,6 +26,16 @@ Breadboard wiring:
 
 ![Breadboard wiring](/images/esp8266_oled_wiring_bb.png)
 
+### Libraries
+Download the following libraries from Github in ZIP format and install them.
+1. Time.h & TimeLib.h:  https://github.com/PaulStoffregen/Time
+2. Timezone.h: https://github.com/JChristensen/Timezone
+3. SSD1306.h & SSD1306Wire.h:  https://github.com/squix78/esp8266-oled-ssd1306
+4. NTPClient.h: https://github.com/arduino-libraries/NTPClient
+5. ESP8266WiFi.h & WifiUDP.h: https://github.com/ekstrand/ESP8266wifi
+
+![Library](/images/library.png)
+
 ### Result
 
 ![Photo](/images/photo.jpg)
